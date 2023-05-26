@@ -4,5 +4,6 @@ public class testGit {
         System.out.println("Hola Mundo!");
         //Bug
         System.out.println("Bug found");
+        System.out.println("Bug Fixed");
     }
 }
